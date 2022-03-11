@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Delivery Tip Storytelling](/pdf/Delivery Tip Prediction Project.pdf)
+[Delivery Tip Storytelling](/pdf/Delivery Tip Prediction Report.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
